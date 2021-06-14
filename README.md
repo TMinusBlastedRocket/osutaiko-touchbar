@@ -1,7 +1,7 @@
 # osutaiko-touchbar
 BetterTouchTool config to use your touchbar in osu!takio
 Requirements: 
-  A Macbook Pro with touchbar (almost any of the post-2016 MBPs),
+  A Macbook Pro with touchbar (almost any of the post-2016 MBPs) **OR* a Mac running macOS Catalina and an iPad docked in sidecar,
   osu!lazer and 
   https://folivora.ai/ (bettertouchtool)  
 Thats it!
