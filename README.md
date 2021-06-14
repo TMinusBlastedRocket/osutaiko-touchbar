@@ -7,3 +7,5 @@ Requirements:
 Thats it!
 
 to use: select presets>import preset and import the file, it should automatically lock onto osu!lazer when launched
+
+**Be sure to have the default keybinds for lazer set or this will not work**
